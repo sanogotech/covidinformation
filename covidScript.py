@@ -42,7 +42,7 @@ def displayAllCovidData(allCovidData):
 
 def createSimpleTxtFileForAllCovidData(allCovidData):
 
-        with open("allCovidData.txt", 'w') as json_file:
+        with open("allCovidData.json", 'w') as json_file:
                 json.dump(allCovidData, json_file,indent = 4, sort_keys=True)
 
 def main():
