@@ -43,6 +43,15 @@ python  covidScript.py
 ```
 
 ## Result
+```
+* 2020-03-31
+``` 
+![Covid19 : Cote d'Ivoire ](https://github.com/sanogotech/covidinformation/blob/master/docs/screenshot/alldataCovid2020-03-31.jpg)
 
-** 2020-03-29 
+
+ 
+```
+* 2020-03-29
+``` 
+
 ![Covid19 : Cote d'Ivoire ](https://github.com/sanogotech/covidinformation/blob/master/docs/screenshot/covid19Infos2020-03-29.jpg)
