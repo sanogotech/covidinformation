@@ -15,6 +15,7 @@
 #provided by Johns Hopkins university and worldometers.info
 # import module
 from covid import Covid
+import json
 
 # variable
 covid = Covid()
@@ -36,12 +37,17 @@ def getAllCovidData():
         return allCovidData 
 
 def displayAllCovidData(allCovidData):
-        print("Covid data/Contries :" ,allCovidData)
+        # Pretty Printing JSON string 
+        print(json.dumps(allCovidData, indent = 4, sort_keys=True))
 
 def createSimpleTxtFileForAllCovidData(allCovidData):
-        f = open("allCovidData.txt", "a")
+        '''f = open("allCovidData.txt", "a")
         f.write(str(allCovidData))
         f.close()
+        '''
+        
+        with open("allCovidData.txt", 'w') as json_file:
+                json.dump(allCovidData, json_file)
 
 def main():
         displayMessage()
