@@ -18,23 +18,29 @@ https://pypi.org/project/covid/
 
 ## Pip install
 
-'''
-pip install  covid
 
-'''
+```
+	pip install  covid
+
+```
 
 ## Code
 
-'''
-def  getStatusByCountryName(countryName):
+```python
+
+	def  getStatusByCountryName(countryName):
 
 		country_cases = covid.get_status_by_country_name(countryName)	
 		print("Covid19 Status :" , countryName, country_cases)
 		
-'''
+```
 
 ## Run
+
+```
 python  covidScript.py
+
+```
 
 ## Result
 
