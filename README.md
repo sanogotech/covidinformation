@@ -6,11 +6,15 @@
 
 https://www.linkedin.com/in/souleymanesanogo/
 
-## Python  SDK
+## Getting Started
 
 https://pypi.org/project/covid/
 
 ** Python SDK to get information regarding the novel corona virus provided by Johns Hopkins university and worldometers.info
+
+### Prerequisites
+
+ - Python  3.x (3.6+)
 
 ## Pip install
 
