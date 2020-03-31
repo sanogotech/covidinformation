@@ -21,11 +21,10 @@ pip install  covid
 
 '''
 def  getStatusByCountryName(countryName):
-		country_cases = covid.get_status_by_country_name(countryName)
-	
+
+		country_cases = covid.get_status_by_country_name(countryName)	
 		print("Covid19 Status :" , countryName, country_cases)
 		
-
 '''
 
 ## Run
