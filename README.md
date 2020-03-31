@@ -4,6 +4,8 @@
 
 - "Python Script to get information regarding the novel corona virus " 
 
+https://www.linkedin.com/in/souleymanesanogo/
+
 ## Python  SDK
 
 https://pypi.org/project/covid/
