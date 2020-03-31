@@ -19,6 +19,7 @@ import time
 import json
 import csv
 import pandas as pd
+from datetime import datetime
 
 # variable
 covid = Covid()
@@ -28,7 +29,7 @@ def displayMessage():
         print("--------------------------------")
         print("*** Akwaba Abidjan Python: Information About Covid19 . GOD Bless You !")
         print("--------------------------------")
-        
+
 
 def convertJsonFileToCsvTabularData():
         print("** ** **  convertJsonFileToCsvTabularData() **  ** ")
@@ -74,6 +75,15 @@ def getStatusByCountryName(countryName):
 def getAllCovidData():
         print("** ** **  getAllCovidData **  ** ")
         allCovidData = covid.get_data()
+        for databycountry in  allCovidData:
+                timeUnixMls = float(databycountry["last_update"])
+                #To convert unix timestamp to datetime, you can use datetime.fromtimestamp()
+                datelastupdate = datetime.fromtimestamp(timeUnixMls  // 1000)
+                # Update date format
+                databycountry["last_update"] =str(datelastupdate)
+                #   "last_update": "2020-03-31 10:27:59",
+                
+        
         return allCovidData 
 
 def displayAllCovidData(allCovidData):
