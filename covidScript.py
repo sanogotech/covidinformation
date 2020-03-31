@@ -21,30 +21,35 @@ covid = Covid()
 
 # Define a function
 def displayMessage():
-	print("--------------------------------")
-	print("*** Akwaba Abidjan Python: Information About Covid19 . GOD Bless You !")
-	print("--------------------------------")
+        print("--------------------------------")
+        print("*** Akwaba Abidjan Python: Information About Covid19 . GOD Bless You !")
+        print("--------------------------------")
 
-def  getStatusByCountryName(countryName):
+def getStatusByCountryName(countryName):
 		country_cases = covid.get_status_by_country_name(countryName)
 	
 		print("Covid19 Status :" , countryName, country_cases)
 		print("** ** ** **  ** ")
+        
+def getAllCovidData():
+        allCovidData = covid.get_data()
+        return allCovidData 
 
-def displayAllCovidData():
-	allCovidData = covid.get_data()
-	print("Covid data/Contries :" ,allCovidData)
+def displayAllCovidData(allCovidData):
+        print("Covid data/Contries :" ,allCovidData)
 
-def createSimpleTxtFile(allCovidData):
-    f = open("allCovidData.txt", "a")
-    f.write(allCovidData)
-    f.close()
+def createSimpleTxtFileForAllCovidData(allCovidData):
+        f = open("allCovidData.txt", "a")
+        f.write(str(allCovidData))
+        f.close()
 
 def main():
-	displayMessage()
-	getStatusByCountryName("Cote d'Ivoire")
-	#italy_cases = covid.get_status_by_country_id(115)
-	#displayCovidData()
+        displayMessage()
+        getStatusByCountryName("Cote d'Ivoire")
+        #italy_cases = covid.get_status_by_country_id(115)
+        allCovidData  = getAllCovidData()
+        createSimpleTxtFileForAllCovidData(allCovidData)
+        displayAllCovidData(allCovidData)
 
 if __name__ == '__main__':
-	main()
+        main()
