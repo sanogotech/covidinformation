@@ -1,6 +1,8 @@
-# Akwaba Abidjan Python: Information About Covid19 . GOD Bless You !")
+# Information About Covid19 . GOD Bless You !")
 
-## "Python Script to get information regarding the novel corona virus " 
+##  Akwaba Abidjan Python
+
+- "Python Script to get information regarding the novel corona virus " 
 
 ## Python  SDK
 
