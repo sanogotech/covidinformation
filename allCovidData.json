@@ -1,11 +1,11 @@
 [
     {
         "active": 0,
-        "confirmed": 164610,
+        "confirmed": 164785,
         "country": "US",
-        "deaths": 3170,
+        "deaths": 3173,
         "id": "18",
-        "last_update": "2020-03-31 10:28:12",
+        "last_update": "2020-03-31 13:56:09",
         "latitude": 40.0,
         "longitude": -100.0,
         "recovered": 5945
@@ -16,7 +16,7 @@
         "country": "Italy",
         "deaths": 11591,
         "id": "11",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 41.8719,
         "longitude": 12.5674,
         "recovered": 14620
@@ -26,44 +26,44 @@
         "confirmed": 94417,
         "country": "Spain",
         "deaths": 8189,
-        "id": "156",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "157",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 40.463667,
         "longitude": -3.74922,
         "recovered": 19259
     },
     {
-        "active": 2760,
-        "confirmed": 82272,
+        "active": 2763,
+        "confirmed": 82276,
         "country": "China",
         "deaths": 3309,
         "id": "4",
-        "last_update": "2020-03-31 09:10:05",
+        "last_update": "2020-03-31 09:56:36",
         "latitude": 30.5928,
         "longitude": 114.3055,
-        "recovered": 76203
+        "recovered": 76204
     },
     {
-        "active": 52901,
+        "active": 50545,
         "confirmed": 67051,
         "country": "Germany",
-        "deaths": 650,
+        "deaths": 682,
         "id": "8",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 51.1657,
         "longitude": 10.4515,
-        "recovered": 13500
+        "recovered": 15824
     },
     {
-        "active": 34177,
-        "confirmed": 45171,
+        "active": 34186,
+        "confirmed": 45209,
         "country": "France",
-        "deaths": 3030,
+        "deaths": 3032,
         "id": "7",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 46.2276,
         "longitude": 2.2137,
-        "recovered": 7964
+        "recovered": 7991
     },
     {
         "active": 27051,
@@ -71,51 +71,51 @@
         "country": "Iran",
         "deaths": 2898,
         "id": "89",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 32.427908,
         "longitude": 53.688046,
         "recovered": 14656
     },
     {
-        "active": 20882,
+        "active": 20874,
         "confirmed": 22465,
         "country": "United Kingdom",
         "deaths": 1412,
         "id": "17",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 55.0,
         "longitude": -3.0,
-        "recovered": 171
+        "recovered": 179
     },
     {
-        "active": 13740,
-        "confirmed": 15922,
+        "active": 13980,
+        "confirmed": 16176,
         "country": "Switzerland",
-        "deaths": 359,
+        "deaths": 373,
         "id": "16",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 46.8182,
         "longitude": 8.2275,
         "recovered": 1823
     },
     {
-        "active": 10372,
+        "active": 10374,
         "confirmed": 12775,
         "country": "Belgium",
         "deaths": 705,
         "id": "33",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 50.8333,
         "longitude": 4.469936,
-        "recovered": 1698
+        "recovered": 1696
     },
     {
-        "active": 10699,
-        "confirmed": 11817,
+        "active": 11369,
+        "confirmed": 12662,
         "country": "Netherlands",
-        "deaths": 865,
+        "deaths": 1040,
         "id": "12",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 52.3167,
         "longitude": 5.55,
         "recovered": 253
@@ -125,19 +125,19 @@
         "confirmed": 10827,
         "country": "Turkey",
         "deaths": 168,
-        "id": "168",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "169",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 38.9637,
         "longitude": 35.2433,
         "recovered": 162
     },
     {
-        "active": 8628,
-        "confirmed": 9851,
+        "active": 8751,
+        "confirmed": 9974,
         "country": "Austria",
         "deaths": 128,
         "id": "2",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 47.5162,
         "longitude": 14.5501,
         "recovered": 1095
@@ -148,7 +148,7 @@
         "country": "Korea, South",
         "deaths": 162,
         "id": "97",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 35.907757,
         "longitude": 127.766922,
         "recovered": 5408
@@ -159,18 +159,18 @@
         "country": "Canada",
         "deaths": 89,
         "id": "3",
-        "last_update": "2020-03-31 10:33:36",
+        "last_update": "2020-03-31 14:01:33",
         "latitude": 60.001,
         "longitude": -95.001,
         "recovered": 1020
     },
     {
-        "active": 6225,
-        "confirmed": 6408,
+        "active": 7240,
+        "confirmed": 7443,
         "country": "Portugal",
-        "deaths": 140,
+        "deaths": 160,
         "id": "139",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 39.3999,
         "longitude": -8.2245,
         "recovered": 43
@@ -181,73 +181,73 @@
         "country": "Israel",
         "deaths": 17,
         "id": "91",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 31.046051,
         "longitude": 34.851612,
         "recovered": 163
     },
     {
-        "active": 4369,
-        "confirmed": 4661,
+        "active": 4387,
+        "confirmed": 4681,
         "country": "Brazil",
-        "deaths": 165,
+        "deaths": 167,
         "id": "40",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -14.235,
         "longitude": -51.9253,
         "recovered": 127
     },
     {
-        "active": 4174,
-        "confirmed": 4550,
+        "active": 4550,
+        "confirmed": 4599,
+        "country": "Norway",
+        "deaths": 36,
+        "id": "13",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 60.472,
+        "longitude": 8.4689,
+        "recovered": 13
+    },
+    {
+        "active": 4183,
+        "confirmed": 4559,
         "country": "Australia",
         "deaths": 18,
         "id": "1",
-        "last_update": "2020-03-31 10:33:51",
+        "last_update": "2020-03-31 14:01:48",
         "latitude": -25.0,
         "longitude": 133.0,
         "recovered": 358
     },
     {
-        "active": 4448,
-        "confirmed": 4494,
-        "country": "Norway",
-        "deaths": 34,
-        "id": "13",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": 60.472,
-        "longitude": 8.4689,
-        "recovered": 12
-    },
-    {
-        "active": 3866,
-        "confirmed": 4028,
+        "active": 4239,
+        "confirmed": 4435,
         "country": "Sweden",
-        "deaths": 146,
+        "deaths": 180,
         "id": "15",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 60.1282,
         "longitude": 18.6435,
         "recovered": 16
     },
     {
-        "active": 2953,
+        "active": 2952,
         "confirmed": 3002,
         "country": "Czechia",
-        "deaths": 24,
+        "deaths": 25,
         "id": "59",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 49.8175,
         "longitude": 15.473,
         "recovered": 25
     },
     {
-        "active": 2840,
+        "active": 2827,
         "confirmed": 2994,
         "country": "Denmark",
-        "deaths": 77,
+        "deaths": 90,
         "id": "5",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 56.0,
         "longitude": 10.0,
         "recovered": 77
@@ -258,7 +258,7 @@
         "country": "Ireland",
         "deaths": 54,
         "id": "10",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 53.1424,
         "longitude": -7.6921,
         "recovered": 5
@@ -269,7 +269,7 @@
         "country": "Malaysia",
         "deaths": 43,
         "id": "111",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 4.210484,
         "longitude": 101.975766,
         "recovered": 537
@@ -280,7 +280,7 @@
         "country": "Chile",
         "deaths": 8,
         "id": "50",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -35.6751,
         "longitude": -71.543,
         "recovered": 156
@@ -291,29 +291,29 @@
         "country": "Russia",
         "deaths": 17,
         "id": "14",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 61.524,
         "longitude": 105.3188,
         "recovered": 121
     },
     {
-        "active": 1956,
+        "active": 1953,
         "confirmed": 2245,
         "country": "Romania",
-        "deaths": 69,
+        "deaths": 72,
         "id": "141",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 45.9432,
         "longitude": 24.9668,
         "recovered": 220
     },
     {
-        "active": 2094,
-        "confirmed": 2132,
+        "active": 2176,
+        "confirmed": 2215,
         "country": "Poland",
-        "deaths": 31,
+        "deaths": 32,
         "id": "138",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 51.9194,
         "longitude": 19.1451,
         "recovered": 7
@@ -324,7 +324,7 @@
         "country": "Philippines",
         "deaths": 88,
         "id": "137",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 12.879721,
         "longitude": 121.774017,
         "recovered": 49
@@ -335,7 +335,7 @@
         "country": "Luxembourg",
         "deaths": 22,
         "id": "108",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 49.8153,
         "longitude": 6.1296,
         "recovered": 80
@@ -346,7 +346,7 @@
         "country": "Ecuador",
         "deaths": 62,
         "id": "64",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -1.8312,
         "longitude": -78.1834,
         "recovered": 54
@@ -357,7 +357,7 @@
         "country": "Japan",
         "deaths": 56,
         "id": "93",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 36.204824,
         "longitude": 138.252924,
         "recovered": 424
@@ -368,7 +368,7 @@
         "country": "Pakistan",
         "deaths": 25,
         "id": "132",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 30.3753,
         "longitude": 69.3451,
         "recovered": 76
@@ -378,11 +378,22 @@
         "confirmed": 1651,
         "country": "Thailand",
         "deaths": 10,
-        "id": "163",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "164",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 15.870032,
         "longitude": 100.992541,
         "recovered": 342
+    },
+    {
+        "active": 1388,
+        "confirmed": 1563,
+        "country": "Saudi Arabia",
+        "deaths": 10,
+        "id": "147",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 23.885942,
+        "longitude": 45.079162,
+        "recovered": 165
     },
     {
         "active": 1311,
@@ -390,29 +401,18 @@
         "country": "Indonesia",
         "deaths": 136,
         "id": "88",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -0.7893,
         "longitude": 113.9213,
         "recovered": 81
     },
     {
-        "active": 1330,
-        "confirmed": 1453,
-        "country": "Saudi Arabia",
-        "deaths": 8,
-        "id": "147",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": 23.885942,
-        "longitude": 45.079162,
-        "recovered": 115
-    },
-    {
-        "active": 1395,
+        "active": 1391,
         "confirmed": 1418,
         "country": "Finland",
-        "deaths": 13,
+        "deaths": 17,
         "id": "6",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 61.9241,
         "longitude": 25.7482,
         "recovered": 10
@@ -422,8 +422,8 @@
         "confirmed": 1326,
         "country": "South Africa",
         "deaths": 3,
-        "id": "155",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "156",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -30.5595,
         "longitude": 22.9375,
         "recovered": 31
@@ -434,7 +434,7 @@
         "country": "India",
         "deaths": 32,
         "id": "87",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 20.593684,
         "longitude": 78.96288,
         "recovered": 102
@@ -445,10 +445,21 @@
         "country": "Greece",
         "deaths": 46,
         "id": "77",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 39.0742,
         "longitude": 21.8243,
         "recovered": 52
+    },
+    {
+        "active": 976,
+        "confirmed": 1135,
+        "country": "Iceland",
+        "deaths": 2,
+        "id": "9",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 64.9631,
+        "longitude": -19.0208,
+        "recovered": 157
     },
     {
         "active": 1031,
@@ -456,21 +467,10 @@
         "country": "Mexico",
         "deaths": 28,
         "id": "117",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 23.6345,
         "longitude": -102.5528,
         "recovered": 35
-    },
-    {
-        "active": 927,
-        "confirmed": 1086,
-        "country": "Iceland",
-        "deaths": 2,
-        "id": "9",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": 64.9631,
-        "longitude": -19.0208,
-        "recovered": 157
     },
     {
         "active": 1039,
@@ -478,18 +478,18 @@
         "country": "Panama",
         "deaths": 27,
         "id": "133",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 8.538,
         "longitude": -80.7821,
         "recovered": 9
     },
     {
-        "active": 714,
+        "active": 713,
         "confirmed": 966,
         "country": "Argentina",
-        "deaths": 24,
+        "deaths": 25,
         "id": "25",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -38.4161,
         "longitude": -63.6167,
         "recovered": 228
@@ -500,10 +500,21 @@
         "country": "Peru",
         "deaths": 24,
         "id": "136",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -9.19,
         "longitude": -75.0152,
         "recovered": 53
+    },
+    {
+        "active": 683,
+        "confirmed": 926,
+        "country": "Singapore",
+        "deaths": 3,
+        "id": "152",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 1.2833,
+        "longitude": 103.8333,
+        "recovered": 240
     },
     {
         "active": 855,
@@ -511,29 +522,29 @@
         "country": "Dominican Republic",
         "deaths": 42,
         "id": "63",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 18.7357,
         "longitude": -70.1627,
         "recovered": 4
     },
     {
-        "active": 648,
-        "confirmed": 879,
-        "country": "Singapore",
-        "deaths": 3,
-        "id": "151",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": 1.2833,
-        "longitude": 103.8333,
-        "recovered": 228
+        "active": 794,
+        "confirmed": 867,
+        "country": "Croatia",
+        "deaths": 6,
+        "id": "56",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 45.1,
+        "longitude": 15.2,
+        "recovered": 67
     },
     {
         "active": 777,
         "confirmed": 802,
         "country": "Slovenia",
         "deaths": 15,
-        "id": "153",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "154",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 46.1512,
         "longitude": 14.9955,
         "recovered": 10
@@ -544,21 +555,10 @@
         "country": "Colombia",
         "deaths": 14,
         "id": "51",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 4.5709,
         "longitude": -74.2973,
         "recovered": 15
-    },
-    {
-        "active": 717,
-        "confirmed": 790,
-        "country": "Croatia",
-        "deaths": 6,
-        "id": "56",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": 45.1,
-        "longitude": 15.2,
-        "recovered": 67
     },
     {
         "active": 769,
@@ -566,7 +566,7 @@
         "country": "Serbia",
         "deaths": 16,
         "id": "149",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 44.0165,
         "longitude": 21.0059,
         "recovered": 0
@@ -577,7 +577,7 @@
         "country": "Estonia",
         "deaths": 4,
         "id": "69",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 58.5953,
         "longitude": 25.0136,
         "recovered": 26
@@ -588,7 +588,7 @@
         "country": "Diamond Princess",
         "deaths": 10,
         "id": "60",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 0.0,
         "longitude": 0.0,
         "recovered": 603
@@ -599,10 +599,21 @@
         "country": "Qatar",
         "deaths": 1,
         "id": "140",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 25.3548,
         "longitude": 51.1839,
         "recovered": 51
+    },
+    {
+        "active": 597,
+        "confirmed": 664,
+        "country": "United Arab Emirates",
+        "deaths": 6,
+        "id": "172",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 23.424076,
+        "longitude": 53.847818,
+        "recovered": 61
     },
     {
         "active": 465,
@@ -610,7 +621,7 @@
         "country": "Egypt",
         "deaths": 41,
         "id": "65",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 26.820553,
         "longitude": 30.802498,
         "recovered": 150
@@ -621,7 +632,7 @@
         "country": "New Zealand",
         "deaths": 1,
         "id": "126",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -40.9006,
         "longitude": 174.886,
         "recovered": 74
@@ -632,21 +643,10 @@
         "country": "Iraq",
         "deaths": 46,
         "id": "90",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 33.223191,
         "longitude": 43.679291,
         "recovered": 152
-    },
-    {
-        "active": 545,
-        "confirmed": 611,
-        "country": "United Arab Emirates",
-        "deaths": 5,
-        "id": "171",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": 23.424076,
-        "longitude": 53.847818,
-        "recovered": 61
     },
     {
         "active": 512,
@@ -654,7 +654,7 @@
         "country": "Algeria",
         "deaths": 35,
         "id": "21",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 28.0339,
         "longitude": 1.6596,
         "recovered": 37
@@ -665,29 +665,40 @@
         "country": "Morocco",
         "deaths": 33,
         "id": "122",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 31.7917,
         "longitude": -7.0926,
         "recovered": 15
+    },
+    {
+        "active": 268,
+        "confirmed": 567,
+        "country": "Bahrain",
+        "deaths": 4,
+        "id": "29",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 26.0275,
+        "longitude": 50.55,
+        "recovered": 295
     },
     {
         "active": 528,
         "confirmed": 549,
         "country": "Ukraine",
         "deaths": 13,
-        "id": "170",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "171",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 48.3794,
         "longitude": 31.1656,
         "recovered": 8
     },
     {
-        "active": 519,
+        "active": 518,
         "confirmed": 533,
         "country": "Lithuania",
-        "deaths": 7,
+        "deaths": 8,
         "id": "107",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 55.1694,
         "longitude": 23.8813,
         "recovered": 7
@@ -698,21 +709,10 @@
         "country": "Armenia",
         "deaths": 3,
         "id": "26",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 40.0691,
         "longitude": 45.0382,
         "recovered": 30
-    },
-    {
-        "active": 216,
-        "confirmed": 515,
-        "country": "Bahrain",
-        "deaths": 4,
-        "id": "29",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": 26.0275,
-        "longitude": 50.55,
-        "recovered": 295
     },
     {
         "active": 439,
@@ -720,7 +720,7 @@
         "country": "Hungary",
         "deaths": 16,
         "id": "86",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 47.1625,
         "longitude": 19.5033,
         "recovered": 37
@@ -731,18 +731,18 @@
         "country": "Lebanon",
         "deaths": 12,
         "id": "103",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 33.8547,
         "longitude": 35.8623,
         "recovered": 35
     },
     {
-        "active": 384,
+        "active": 382,
         "confirmed": 411,
         "country": "Bosnia and Herzegovina",
-        "deaths": 10,
+        "deaths": 12,
         "id": "38",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 43.9159,
         "longitude": 17.6791,
         "recovered": 17
@@ -753,7 +753,7 @@
         "country": "Latvia",
         "deaths": 0,
         "id": "102",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 56.8796,
         "longitude": 24.6032,
         "recovered": 1
@@ -764,7 +764,7 @@
         "country": "Bulgaria",
         "deaths": 8,
         "id": "42",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 42.7339,
         "longitude": 25.4858,
         "recovered": 17
@@ -775,29 +775,29 @@
         "country": "Andorra",
         "deaths": 8,
         "id": "22",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 42.5063,
         "longitude": 1.5218,
         "recovered": 10
     },
     {
-        "active": 356,
+        "active": 360,
         "confirmed": 363,
         "country": "Slovakia",
         "deaths": 0,
-        "id": "152",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "153",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 48.669,
         "longitude": 19.699,
-        "recovered": 7
+        "recovered": 3
     },
     {
-        "active": 350,
+        "active": 349,
         "confirmed": 362,
         "country": "Tunisia",
-        "deaths": 9,
-        "id": "167",
-        "last_update": "2020-03-31 10:27:59",
+        "deaths": 10,
+        "id": "168",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 33.886917,
         "longitude": 9.537499,
         "recovered": 3
@@ -808,7 +808,7 @@
         "country": "Kazakhstan",
         "deaths": 2,
         "id": "95",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 48.0196,
         "longitude": 66.9237,
         "recovered": 22
@@ -819,17 +819,28 @@
         "country": "Costa Rica",
         "deaths": 2,
         "id": "54",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 9.7489,
         "longitude": -83.7534,
         "recovered": 4
+    },
+    {
+        "active": 308,
+        "confirmed": 329,
+        "country": "North Macedonia",
+        "deaths": 9,
+        "id": "130",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 41.6086,
+        "longitude": 21.7453,
+        "recovered": 12
     },
     {
         "active": 278,
         "confirmed": 322,
         "country": "Taiwan*",
         "deaths": 5,
-        "id": "161",
+        "id": "162",
         "last_update": "2020-03-31 07:26:59",
         "latitude": 23.7,
         "longitude": 121.0,
@@ -840,11 +851,22 @@
         "confirmed": 320,
         "country": "Uruguay",
         "deaths": 1,
-        "id": "172",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "173",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -32.5228,
         "longitude": -55.7658,
         "recovered": 25
+    },
+    {
+        "active": 267,
+        "confirmed": 298,
+        "country": "Azerbaijan",
+        "deaths": 5,
+        "id": "27",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 40.1431,
+        "longitude": 47.5769,
+        "recovered": 26
     },
     {
         "active": 278,
@@ -852,7 +874,7 @@
         "country": "Moldova",
         "deaths": 2,
         "id": "118",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 47.4116,
         "longitude": 28.3699,
         "recovered": 18
@@ -863,32 +885,10 @@
         "country": "Kuwait",
         "deaths": 0,
         "id": "99",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 29.31166,
         "longitude": 47.481766,
         "recovered": 73
-    },
-    {
-        "active": 266,
-        "confirmed": 285,
-        "country": "North Macedonia",
-        "deaths": 7,
-        "id": "130",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": 41.6086,
-        "longitude": 21.7453,
-        "recovered": 12
-    },
-    {
-        "active": 243,
-        "confirmed": 273,
-        "country": "Azerbaijan",
-        "deaths": 4,
-        "id": "27",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": 40.1431,
-        "longitude": 47.5769,
-        "recovered": 26
     },
     {
         "active": 237,
@@ -896,7 +896,7 @@
         "country": "Jordan",
         "deaths": 5,
         "id": "94",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 31.24,
         "longitude": 36.51,
         "recovered": 26
@@ -907,7 +907,7 @@
         "country": "Burkina Faso",
         "deaths": 12,
         "id": "43",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 12.2383,
         "longitude": -1.5616,
         "recovered": 31
@@ -918,7 +918,7 @@
         "country": "Albania",
         "deaths": 13,
         "id": "20",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 41.1533,
         "longitude": 20.1683,
         "recovered": 52
@@ -929,7 +929,7 @@
         "country": "Cyprus",
         "deaths": 7,
         "id": "58",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 35.1264,
         "longitude": 33.4299,
         "recovered": 22
@@ -940,21 +940,21 @@
         "country": "San Marino",
         "deaths": 25,
         "id": "146",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 43.9424,
         "longitude": 12.4578,
         "recovered": 13
     },
     {
-        "active": 149,
-        "confirmed": 204,
+        "active": 150,
+        "confirmed": 207,
         "country": "Vietnam",
         "deaths": 0,
-        "id": "175",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "176",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 14.058324,
         "longitude": 108.277199,
-        "recovered": 55
+        "recovered": 57
     },
     {
         "active": 182,
@@ -962,7 +962,7 @@
         "country": "Cameroon",
         "deaths": 6,
         "id": "47",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 3.848,
         "longitude": 11.5021,
         "recovered": 5
@@ -973,7 +973,7 @@
         "country": "Oman",
         "deaths": 0,
         "id": "131",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 21.512583,
         "longitude": 55.923255,
         "recovered": 34
@@ -984,7 +984,7 @@
         "country": "Senegal",
         "deaths": 0,
         "id": "148",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 14.4974,
         "longitude": -14.4524,
         "recovered": 40
@@ -995,7 +995,7 @@
         "country": "Afghanistan",
         "deaths": 4,
         "id": "19",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 33.93911,
         "longitude": 67.709953,
         "recovered": 5
@@ -1006,10 +1006,21 @@
         "country": "Cuba",
         "deaths": 4,
         "id": "57",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 21.521757,
         "longitude": -77.781167,
         "recovered": 4
+    },
+    {
+        "active": 167,
+        "confirmed": 169,
+        "country": "Malta",
+        "deaths": 0,
+        "id": "114",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 35.9375,
+        "longitude": 14.3754,
+        "recovered": 2
     },
     {
         "active": 161,
@@ -1017,54 +1028,43 @@
         "country": "Cote d'Ivoire",
         "deaths": 1,
         "id": "55",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 7.54,
         "longitude": -5.5471,
         "recovered": 6
     },
     {
-        "active": 149,
-        "confirmed": 158,
+        "active": 158,
+        "confirmed": 167,
         "country": "Uzbekistan",
         "deaths": 2,
-        "id": "173",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "174",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 41.377491,
         "longitude": 64.585262,
         "recovered": 7
     },
     {
-        "active": 154,
-        "confirmed": 156,
-        "country": "Malta",
-        "deaths": 0,
-        "id": "114",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": 35.9375,
-        "longitude": 14.3754,
-        "recovered": 2
-    },
-    {
-        "active": 105,
+        "active": 104,
         "confirmed": 152,
         "country": "Belarus",
-        "deaths": 0,
+        "deaths": 1,
         "id": "32",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 53.7098,
         "longitude": 27.9534,
         "recovered": 47
     },
     {
-        "active": 145,
+        "active": 116,
         "confirmed": 152,
         "country": "Ghana",
         "deaths": 5,
         "id": "76",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 7.9465,
         "longitude": -1.0232,
-        "recovered": 2
+        "recovered": 31
     },
     {
         "active": 140,
@@ -1072,7 +1072,7 @@
         "country": "Mauritius",
         "deaths": 3,
         "id": "116",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -20.348404,
         "longitude": 57.552152,
         "recovered": 0
@@ -1083,32 +1083,43 @@
         "country": "Honduras",
         "deaths": 7,
         "id": "85",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 15.2,
         "longitude": -86.2419,
         "recovered": 3
+    },
+    {
+        "active": 125,
+        "confirmed": 135,
+        "country": "Nigeria",
+        "deaths": 2,
+        "id": "129",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 9.082,
+        "longitude": 8.6753,
+        "recovered": 8
     },
     {
         "active": 93,
         "confirmed": 135,
         "country": "Venezuela",
         "deaths": 3,
-        "id": "174",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "175",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 6.4238,
         "longitude": -66.5897,
         "recovered": 39
     },
     {
-        "active": 121,
-        "confirmed": 131,
-        "country": "Nigeria",
+        "active": 114,
+        "confirmed": 132,
+        "country": "Sri Lanka",
         "deaths": 2,
-        "id": "129",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": 9.082,
-        "longitude": 8.6753,
-        "recovered": 8
+        "id": "158",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 7.873054,
+        "longitude": 80.771797,
+        "recovered": 16
     },
     {
         "active": 83,
@@ -1116,29 +1127,18 @@
         "country": "Brunei",
         "deaths": 1,
         "id": "41",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 4.5353,
         "longitude": 114.7277,
         "recovered": 45
-    },
-    {
-        "active": 111,
-        "confirmed": 129,
-        "country": "Sri Lanka",
-        "deaths": 2,
-        "id": "157",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": 7.873054,
-        "longitude": 80.771797,
-        "recovered": 16
     },
     {
         "active": 98,
         "confirmed": 117,
         "country": "West Bank and Gaza",
         "deaths": 1,
-        "id": "176",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "177",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 31.9522,
         "longitude": 35.2332,
         "recovered": 18
@@ -1149,7 +1149,7 @@
         "country": "Georgia",
         "deaths": 0,
         "id": "75",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 42.3154,
         "longitude": 43.3569,
         "recovered": 21
@@ -1160,7 +1160,7 @@
         "country": "Cambodia",
         "deaths": 0,
         "id": "46",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 11.55,
         "longitude": 104.9167,
         "recovered": 23
@@ -1171,7 +1171,7 @@
         "country": "Bolivia",
         "deaths": 6,
         "id": "37",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -16.2902,
         "longitude": -63.5887,
         "recovered": 0
@@ -1182,7 +1182,7 @@
         "country": "Kyrgyzstan",
         "deaths": 0,
         "id": "100",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 41.20438,
         "longitude": 74.766098,
         "recovered": 3
@@ -1193,18 +1193,18 @@
         "country": "Kosovo",
         "deaths": 1,
         "id": "98",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 42.602636,
         "longitude": 20.902977,
         "recovered": 1
     },
     {
-        "active": 104,
+        "active": 103,
         "confirmed": 105,
         "country": "Montenegro",
-        "deaths": 1,
+        "deaths": 2,
         "id": "121",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 42.708678,
         "longitude": 19.37439,
         "recovered": 0
@@ -1215,7 +1215,7 @@
         "country": "Congo (Kinshasa)",
         "deaths": 8,
         "id": "53",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -4.322447,
         "longitude": 15.307045,
         "recovered": 2
@@ -1225,8 +1225,8 @@
         "confirmed": 85,
         "country": "Trinidad and Tobago",
         "deaths": 3,
-        "id": "166",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "167",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 10.6918,
         "longitude": -61.2225,
         "recovered": 1
@@ -1237,7 +1237,7 @@
         "country": "Rwanda",
         "deaths": 0,
         "id": "142",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -1.9403,
         "longitude": 29.8739,
         "recovered": 0
@@ -1248,7 +1248,7 @@
         "country": "Paraguay",
         "deaths": 3,
         "id": "135",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -23.4425,
         "longitude": -58.4438,
         "recovered": 1
@@ -1259,10 +1259,21 @@
         "country": "Liechtenstein",
         "deaths": 0,
         "id": "106",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 47.14,
         "longitude": 9.55,
         "recovered": 0
+    },
+    {
+        "active": 57,
+        "confirmed": 59,
+        "country": "Kenya",
+        "deaths": 1,
+        "id": "96",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": -0.0236,
+        "longitude": 37.9062,
+        "recovered": 1
     },
     {
         "active": 21,
@@ -1270,21 +1281,10 @@
         "country": "Bangladesh",
         "deaths": 5,
         "id": "30",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 23.685,
         "longitude": 90.3563,
         "recovered": 25
-    },
-    {
-        "active": 48,
-        "confirmed": 50,
-        "country": "Kenya",
-        "deaths": 1,
-        "id": "96",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": -0.0236,
-        "longitude": 37.9062,
-        "recovered": 1
     },
     {
         "active": 47,
@@ -1292,7 +1292,7 @@
         "country": "Monaco",
         "deaths": 1,
         "id": "119",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 43.7333,
         "longitude": 7.4167,
         "recovered": 1
@@ -1303,7 +1303,7 @@
         "country": "Madagascar",
         "deaths": 0,
         "id": "110",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -18.766947,
         "longitude": 46.869107,
         "recovered": 0
@@ -1314,7 +1314,7 @@
         "country": "Guatemala",
         "deaths": 1,
         "id": "79",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 15.7835,
         "longitude": -90.2308,
         "recovered": 10
@@ -1325,7 +1325,7 @@
         "country": "Jamaica",
         "deaths": 1,
         "id": "92",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 18.1096,
         "longitude": -77.2975,
         "recovered": 2
@@ -1335,8 +1335,8 @@
         "confirmed": 35,
         "country": "Zambia",
         "deaths": 0,
-        "id": "177",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "178",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -13.133897,
         "longitude": 27.849332,
         "recovered": 0
@@ -1347,7 +1347,7 @@
         "country": "Barbados",
         "deaths": 0,
         "id": "31",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 13.1939,
         "longitude": -59.5432,
         "recovered": 0
@@ -1357,8 +1357,8 @@
         "confirmed": 33,
         "country": "Uganda",
         "deaths": 0,
-        "id": "169",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "170",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 1.373333,
         "longitude": 32.290275,
         "recovered": 0
@@ -1369,7 +1369,7 @@
         "country": "El Salvador",
         "deaths": 0,
         "id": "66",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 13.7942,
         "longitude": -88.8965,
         "recovered": 0
@@ -1379,11 +1379,22 @@
         "confirmed": 30,
         "country": "Togo",
         "deaths": 1,
-        "id": "165",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "166",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 8.6195,
         "longitude": 0.8248,
         "recovered": 1
+    },
+    {
+        "active": 26,
+        "confirmed": 28,
+        "country": "Mali",
+        "deaths": 2,
+        "id": "113",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 17.570692,
+        "longitude": -3.996166,
+        "recovered": 0
     },
     {
         "active": 24,
@@ -1391,32 +1402,21 @@
         "country": "Niger",
         "deaths": 3,
         "id": "128",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 17.607789,
         "longitude": 8.081666,
         "recovered": 0
     },
     {
-        "active": 21,
+        "active": 23,
         "confirmed": 25,
         "country": "Ethiopia",
         "deaths": 0,
         "id": "71",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 9.145,
         "longitude": 40.4897,
-        "recovered": 4
-    },
-    {
-        "active": 23,
-        "confirmed": 25,
-        "country": "Mali",
-        "deaths": 2,
-        "id": "113",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": 17.570692,
-        "longitude": -3.996166,
-        "recovered": 0
+        "recovered": 2
     },
     {
         "active": 22,
@@ -1424,7 +1424,7 @@
         "country": "Guinea",
         "deaths": 0,
         "id": "80",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 9.9456,
         "longitude": -9.6966,
         "recovered": 0
@@ -1435,7 +1435,7 @@
         "country": "Congo (Brazzaville)",
         "deaths": 0,
         "id": "52",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -4.2634,
         "longitude": 15.2832,
         "recovered": 0
@@ -1445,8 +1445,8 @@
         "confirmed": 19,
         "country": "Tanzania",
         "deaths": 1,
-        "id": "162",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "163",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -6.369028,
         "longitude": 34.888822,
         "recovered": 1
@@ -1457,7 +1457,7 @@
         "country": "Djibouti",
         "deaths": 0,
         "id": "61",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 11.8251,
         "longitude": 42.5903,
         "recovered": 0
@@ -1468,7 +1468,7 @@
         "country": "Maldives",
         "deaths": 0,
         "id": "112",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 3.2028,
         "longitude": 73.2207,
         "recovered": 13
@@ -1479,7 +1479,7 @@
         "country": "Gabon",
         "deaths": 1,
         "id": "73",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -0.8037,
         "longitude": 11.6094,
         "recovered": 0
@@ -1490,7 +1490,7 @@
         "country": "Eritrea",
         "deaths": 0,
         "id": "68",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 15.1794,
         "longitude": 39.7823,
         "recovered": 0
@@ -1501,7 +1501,7 @@
         "country": "Haiti",
         "deaths": 0,
         "id": "83",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 18.9712,
         "longitude": -72.2852,
         "recovered": 1
@@ -1512,7 +1512,7 @@
         "country": "Bahamas",
         "deaths": 0,
         "id": "28",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 25.025885,
         "longitude": -78.035889,
         "recovered": 1
@@ -1523,7 +1523,7 @@
         "country": "Burma",
         "deaths": 1,
         "id": "44",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 21.9162,
         "longitude": 95.956,
         "recovered": 0
@@ -1534,21 +1534,21 @@
         "country": "Dominica",
         "deaths": 0,
         "id": "62",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 15.415,
         "longitude": -61.371,
         "recovered": 0
     },
     {
-        "active": 12,
+        "active": 11,
         "confirmed": 12,
         "country": "Equatorial Guinea",
         "deaths": 0,
         "id": "67",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 1.6508,
         "longitude": 10.2679,
-        "recovered": 0
+        "recovered": 1
     },
     {
         "active": 10,
@@ -1556,7 +1556,7 @@
         "country": "Mongolia",
         "deaths": 0,
         "id": "120",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 46.8625,
         "longitude": 103.8467,
         "recovered": 2
@@ -1567,7 +1567,7 @@
         "country": "Namibia",
         "deaths": 0,
         "id": "124",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -22.9576,
         "longitude": 18.4904,
         "recovered": 2
@@ -1578,7 +1578,7 @@
         "country": "Seychelles",
         "deaths": 0,
         "id": "150",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -4.6796,
         "longitude": 55.492,
         "recovered": 0
@@ -1588,8 +1588,8 @@
         "confirmed": 10,
         "country": "Syria",
         "deaths": 2,
-        "id": "160",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "161",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 34.802075,
         "longitude": 38.996815,
         "recovered": 0
@@ -1600,7 +1600,7 @@
         "country": "Eswatini",
         "deaths": 0,
         "id": "70",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -26.5225,
         "longitude": 31.4659,
         "recovered": 0
@@ -1611,7 +1611,7 @@
         "country": "Grenada",
         "deaths": 0,
         "id": "78",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 12.1165,
         "longitude": -61.679,
         "recovered": 0
@@ -1622,7 +1622,7 @@
         "country": "Laos",
         "deaths": 0,
         "id": "101",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 19.85627,
         "longitude": 102.495496,
         "recovered": 0
@@ -1633,7 +1633,7 @@
         "country": "Saint Lucia",
         "deaths": 0,
         "id": "144",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 13.9094,
         "longitude": -60.9789,
         "recovered": 1
@@ -1644,7 +1644,7 @@
         "country": "Guinea-Bissau",
         "deaths": 0,
         "id": "81",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 11.8037,
         "longitude": -15.1804,
         "recovered": 0
@@ -1655,7 +1655,7 @@
         "country": "Guyana",
         "deaths": 1,
         "id": "82",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 4.860416,
         "longitude": -58.93018,
         "recovered": 0
@@ -1666,7 +1666,7 @@
         "country": "Libya",
         "deaths": 0,
         "id": "105",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 26.3351,
         "longitude": 17.228331,
         "recovered": 0
@@ -1677,7 +1677,7 @@
         "country": "Mozambique",
         "deaths": 0,
         "id": "123",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -18.665695,
         "longitude": 35.529562,
         "recovered": 0
@@ -1685,10 +1685,21 @@
     {
         "active": 8,
         "confirmed": 8,
+        "country": "Saint Kitts and Nevis",
+        "deaths": 0,
+        "id": "143",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 17.357822,
+        "longitude": -62.782998,
+        "recovered": 0
+    },
+    {
+        "active": 8,
+        "confirmed": 8,
         "country": "Suriname",
         "deaths": 0,
-        "id": "159",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "160",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 3.9193,
         "longitude": -56.0278,
         "recovered": 0
@@ -1698,8 +1709,8 @@
         "confirmed": 8,
         "country": "Zimbabwe",
         "deaths": 1,
-        "id": "178",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "179",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -19.015438,
         "longitude": 29.154857,
         "recovered": 0
@@ -1710,7 +1721,7 @@
         "country": "Angola",
         "deaths": 2,
         "id": "23",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -11.2027,
         "longitude": 17.8739,
         "recovered": 1
@@ -1721,7 +1732,7 @@
         "country": "Antigua and Barbuda",
         "deaths": 0,
         "id": "24",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 17.0608,
         "longitude": -61.7964,
         "recovered": 0
@@ -1732,20 +1743,9 @@
         "country": "Chad",
         "deaths": 0,
         "id": "49",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 15.4542,
         "longitude": 18.7322,
-        "recovered": 0
-    },
-    {
-        "active": 7,
-        "confirmed": 7,
-        "country": "Saint Kitts and Nevis",
-        "deaths": 0,
-        "id": "143",
-        "last_update": "2020-03-31 10:27:59",
-        "latitude": 17.357822,
-        "longitude": -62.782998,
         "recovered": 0
     },
     {
@@ -1753,8 +1753,8 @@
         "confirmed": 7,
         "country": "Sudan",
         "deaths": 2,
-        "id": "158",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "159",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 12.8628,
         "longitude": 30.2176,
         "recovered": 0
@@ -1765,7 +1765,7 @@
         "country": "Benin",
         "deaths": 0,
         "id": "35",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 9.3077,
         "longitude": 2.3158,
         "recovered": 1
@@ -1776,7 +1776,7 @@
         "country": "Cabo Verde",
         "deaths": 1,
         "id": "45",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 16.5388,
         "longitude": -23.0418,
         "recovered": 0
@@ -1787,7 +1787,7 @@
         "country": "Holy See",
         "deaths": 0,
         "id": "84",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 41.9029,
         "longitude": 12.4534,
         "recovered": 0
@@ -1798,7 +1798,7 @@
         "country": "Mauritania",
         "deaths": 1,
         "id": "115",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 21.0079,
         "longitude": -10.9408,
         "recovered": 2
@@ -1809,7 +1809,7 @@
         "country": "Fiji",
         "deaths": 0,
         "id": "72",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -17.7134,
         "longitude": 178.065,
         "recovered": 0
@@ -1820,7 +1820,7 @@
         "country": "Nepal",
         "deaths": 0,
         "id": "125",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 28.1667,
         "longitude": 84.25,
         "recovered": 1
@@ -1831,7 +1831,7 @@
         "country": "Bhutan",
         "deaths": 0,
         "id": "36",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 27.5142,
         "longitude": 90.4336,
         "recovered": 0
@@ -1842,7 +1842,7 @@
         "country": "Gambia",
         "deaths": 1,
         "id": "74",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 13.4432,
         "longitude": -15.3101,
         "recovered": 0
@@ -1853,7 +1853,7 @@
         "country": "Nicaragua",
         "deaths": 1,
         "id": "127",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 12.865416,
         "longitude": -85.207229,
         "recovered": 0
@@ -1864,7 +1864,7 @@
         "country": "Belize",
         "deaths": 0,
         "id": "34",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 17.1899,
         "longitude": -88.4976,
         "recovered": 0
@@ -1875,7 +1875,7 @@
         "country": "Botswana",
         "deaths": 0,
         "id": "39",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -22.3285,
         "longitude": 24.6849,
         "recovered": 0
@@ -1886,7 +1886,7 @@
         "country": "Central African Republic",
         "deaths": 0,
         "id": "48",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 6.6111,
         "longitude": 20.9394,
         "recovered": 0
@@ -1897,7 +1897,7 @@
         "country": "Liberia",
         "deaths": 0,
         "id": "104",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 6.428055,
         "longitude": -9.429499,
         "recovered": 0
@@ -1907,8 +1907,8 @@
         "confirmed": 3,
         "country": "Somalia",
         "deaths": 0,
-        "id": "154",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "155",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 5.152149,
         "longitude": 46.199616,
         "recovered": 1
@@ -1919,7 +1919,7 @@
         "country": "MS Zaandam",
         "deaths": 0,
         "id": "109",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 0.0,
         "longitude": 0.0,
         "recovered": 0
@@ -1930,7 +1930,7 @@
         "country": "Papua New Guinea",
         "deaths": 0,
         "id": "134",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -6.314993,
         "longitude": 143.95555,
         "recovered": 0
@@ -1941,7 +1941,7 @@
         "country": "Saint Vincent and the Grenadines",
         "deaths": 0,
         "id": "145",
-        "last_update": "2020-03-31 10:27:59",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": 12.9843,
         "longitude": -61.2872,
         "recovered": 1
@@ -1949,10 +1949,21 @@
     {
         "active": 1,
         "confirmed": 1,
+        "country": "Sierra Leone",
+        "deaths": 0,
+        "id": "151",
+        "last_update": "2020-03-31 13:55:56",
+        "latitude": 8.460555,
+        "longitude": -11.779889,
+        "recovered": 0
+    },
+    {
+        "active": 1,
+        "confirmed": 1,
         "country": "Timor-Leste",
         "deaths": 0,
-        "id": "164",
-        "last_update": "2020-03-31 10:27:59",
+        "id": "165",
+        "last_update": "2020-03-31 13:55:56",
         "latitude": -8.874217,
         "longitude": 125.727539,
         "recovered": 0

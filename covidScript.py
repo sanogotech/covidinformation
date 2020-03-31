@@ -62,8 +62,13 @@ def convertJsonFileToCsvTabularData():
         
 def convertAllCovidDataCsvToExcel ():
         print("** ** **  convertAllCovidDataCsvToExcel() **  ** ")
-        read_csvfile = pd.read_csv (r'allCovidData.csv')
-        read_csvfile.to_excel (r'allCovidData.xlsx', index = None, header=True)
+        dfreadcsvfile = pd.read_csv (r'allCovidData.csv')
+        #change order of the columns
+        #now 'id' will appear at the end of our df
+        dfreadcsvfile = dfreadcsvfile[['id','country','last_update','confirmed','active','recovered','deaths','latitude','longitude']]
+        dfreadcsvfile.head()
+        # create xlsx
+        dfreadcsvfile.to_excel (r'allCovidData.xlsx', index = None, header=True)
                 
         
 def getStatusByCountryName(countryName):

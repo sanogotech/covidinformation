@@ -10,7 +10,8 @@ https://www.linkedin.com/in/souleymanesanogo/
 
 https://pypi.org/project/covid/
 
-** Python SDK to get information regarding the novel corona virus provided by Johns Hopkins university and worldometers.info
+** Python SDK to get information regarding the novel corona virus provided by Johns Hopkins university and worldometers.info.
+** +180 (Countries)
 
 ### Prerequisites
 
