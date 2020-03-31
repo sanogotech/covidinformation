@@ -21,6 +21,10 @@ https://pypi.org/project/covid/
 
 ```
 	pip install  covid
+	
+	pip install  pandas
+	
+	pip  install openpyxl
 
 ```
 
