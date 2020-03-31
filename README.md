@@ -37,3 +37,6 @@ def  getStatusByCountryName(countryName):
 python  covidScript.py
 
 ## Result
+
+** 2020-03-29 
+![Covid19 : Cote d'Ivoire ](https://github.com/sanogotech/covidinformation/blob/master/docs/screenshot/covid19Infos2020-03-29.jpg)
