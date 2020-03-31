@@ -41,13 +41,9 @@ def displayAllCovidData(allCovidData):
         print(json.dumps(allCovidData, indent = 4, sort_keys=True))
 
 def createSimpleTxtFileForAllCovidData(allCovidData):
-        '''f = open("allCovidData.txt", "a")
-        f.write(str(allCovidData))
-        f.close()
-        '''
-        
+
         with open("allCovidData.txt", 'w') as json_file:
-                json.dump(allCovidData, json_file)
+                json.dump(allCovidData, json_file,indent = 4, sort_keys=True)
 
 def main():
         displayMessage()
